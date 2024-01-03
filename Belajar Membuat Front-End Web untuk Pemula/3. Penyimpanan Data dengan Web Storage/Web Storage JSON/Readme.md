@@ -1,0 +1,3 @@
+Ada satu tipe data yang bisa kita gunakan untuk menyimpan data lebih kompleks yakni JSON (JavaScript object Notation). Misalnya kita ingin menyimpan data mengenai nama, umur, dan domisili seseorang. Jika kita pertimbangkan, solusi paling baik adalah menggunakan JSON. Hal tersebut dikarenakan data nama, umur, dan domisili lebih mudah diakses, diolah, dan kodenya lebih mudah dipahami.
+
+Untungnya session storage dan local storage mendukung penyimpanan data berupa JSON. Walau demikian, untuk kali ini kita hanya akan menggunakan local storage saja. Kita akan membuat sebuah halaman web sederhana yang menyimpan data user yang di-input dan menampilkannya.
